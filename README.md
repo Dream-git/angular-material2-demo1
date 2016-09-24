@@ -5,6 +5,8 @@
 
 	git clone https://github.com/damoqiongqiu/angular-material2-demo1.git
 
+	npm install
+
 	npm install -g angular-cli
 
 	cd angular-material2-demo1
@@ -29,6 +31,8 @@ This project shows a demo of angular-cli and angular2-material for angular2.0.
 
 	git clone https://github.com/damoqiongqiu/angular-material2-demo1.git
 
+	npm install
+	
 	npm install -g angular-cli
 
 	cd angular-material2-demo1
