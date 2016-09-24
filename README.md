@@ -1,6 +1,20 @@
 # AngularMaterial2Demo1
 此项目用来示范angular-cli和angular2-material的用法，采用了最新发布的angular2.0。
 
+## 用法
+
+	git clone https://github.com/damoqiongqiu/angular-material2-demo1.git
+
+	npm install -g angular-cli
+
+	cd angular-material2-demo1
+
+	ng serve
+
+打开浏览器访问http://localhost:4200/
+
+如果能看到界面，说明成功，报一些小错误是正常的，因为官方还在开发中。
+
 ## 注意
 网络上有很多实例项目，但是随着Angular2.0的发布，它们基本上都过时了。
 
@@ -10,6 +24,20 @@
 
 # AngularMaterial2Demo1
 This project shows a demo of angular-cli and angular2-material for angular2.0.
+
+## Usage
+
+	git clone https://github.com/damoqiongqiu/angular-material2-demo1.git
+
+	npm install -g angular-cli
+
+	cd angular-material2-demo1
+
+	ng serve
+
+Open your browser and navigate to http://localhost:4200/
+
+If you can see the page,that means app works,there might be some errors,it's not a problem.
 
 ## Note
 
