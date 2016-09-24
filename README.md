@@ -1,31 +1,20 @@
 # AngularMaterial2Demo1
+此项目用来示范angular-cli和angular2-material的用法，采用了最新发布的angular2.0。
 
-This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.15.
+## 注意
+网络上有很多实例项目，但是随着Angular2.0的发布，它们基本上都过时了。
 
-## Development server
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+所以我创建了这个小项目来给大家示范angular2-material在angular2.0中的用法。
 
-## Code scaffolding
+**注意，如果你刚开始是用angular2-material，请不要修改package.json，因为改了可能导致狂多的错误啊！！！我搞了一整个晚上才把那些恶心的问题解决了。**
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class`.
+# AngularMaterial2Demo1
+This project shows a demo of angular-cli and angular2-material for angular2.0.
 
-## Build
+## Note
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+There are a lot of demos out there,but most of them are out of date because angular2.0 has been released in September.
 
-## Running unit tests
+So I created this little project to show you how to use angular2.0 with angular2-material.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/). 
-Before running the tests make sure you are serving the app via `ng serve`.
-
-## Deploying to Github Pages
-
-Run `ng github-pages:deploy` to deploy to Github Pages.
-
-## Further help
-
-To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+**Do not change package.json if you are new to angular2-material,because it is still beta,and I spent a whole night to get this demo work.**
