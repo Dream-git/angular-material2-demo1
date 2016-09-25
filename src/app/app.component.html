@@ -46,5 +46,32 @@
                 <md-progress-bar class="app-progress" color="accent" mode="determinate" [value]="progress" aria-label="Determinate progress-bar example"></md-progress-bar>
             </label>
         </md-card>
+        <md-card>
+            <md-tab-group>
+                <md-tab>
+                    <template md-tab-label>
+                        Earth
+                    </template>
+                    <template md-tab-content>
+                        <md-card>
+                            <button md-button>FLAT</button>
+                            <button md-raised-button md-tooltip="This is a tooltip!">RAISED</button>
+                            <button md-raised-button color="primary">PRIMARY RAISED</button>
+                            <button md-raised-button color="accent">ACCENT RAISED</button>
+                        </md-card>
+                    </template>
+                </md-tab>
+                <md-tab>
+                    <template md-tab-label>
+                        Fire
+                    </template>
+                    <template md-tab-content>
+                        <md-card>
+                            <button md-raised-button md-tooltip="This is a tooltip!">RAISED</button>
+                        </md-card>
+                    </template>
+                </md-tab>
+            </md-tab-group>
+        </md-card>
     </div>
 </md-sidenav-layout>

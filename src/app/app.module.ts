@@ -13,6 +13,7 @@ import {MdCheckboxModule} from '@angular2-material/checkbox';
 import {MdRadioModule} from '@angular2-material/radio';
 import {MdInputModule} from '@angular2-material/input';
 import {MdProgressBarModule} from '@angular2-material/progress-bar';
+import {MdTabsModule} from '@angular2-material/tabs';
 
 import { AppComponent } from './app.component';
 
@@ -34,7 +35,8 @@ import { AppComponent } from './app.component';
     MdCheckboxModule,
     MdRadioModule,
     MdInputModule,
-    MdProgressBarModule
+    MdProgressBarModule,
+    MdTabsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
